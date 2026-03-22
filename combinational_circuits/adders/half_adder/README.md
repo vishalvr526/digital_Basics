@@ -52,9 +52,9 @@ The design is verified using a SystemVerilog testbench (`halfadder_tb.sv`) by ap
 
 ## Waveform Output
 
-![Waveform](waveform.png)
-
-The waveform confirms correct operation of both **Sum** and **Carry** outputs.
+The waveform shows correct behavior of the Half Adder:
+- Sum follows XOR operation
+- Carry follows AND operation
 
 ---
 
