@@ -7,9 +7,9 @@ This folder contains implementations of different types of adders using Verilog 
 ## Included Modules
 
 * Half Adder
-* Full Adder (to be added)
-* Ripple Carry Adder (to be added)
-* Carry Lookahead Adder (to be added)
+* Full Adder 
+* Ripple Carry Adder
+* Carry Lookahead Adder 
 
 ## Folder Structure
 
