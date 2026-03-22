@@ -1,4 +1,4 @@
-## Adders in Digital Design**
+## Adders in Digital Design
 
 ## Overview
 
